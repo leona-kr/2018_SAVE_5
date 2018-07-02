@@ -6,7 +6,7 @@ const dataFile = "./data/data.json";
 const defaultChar = "utf8";
 const results = {
   "code" : {
-    "success": "100",
+    "success": "200",
     "error": "1"
   },
   "message" : {
