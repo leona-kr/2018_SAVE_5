@@ -6,6 +6,11 @@ import VisibleTodoList from '../containers/VisibleTodoList'
 const App = () => (
   <div className="container">
     <div className="row">
+      <div className="col-9">
+        <h1>My TodoList Homework</h1>
+      </div>
+    </div>
+    <div className="row">
       <div className="col-3">
         <Footer />
       </div>
